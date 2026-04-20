@@ -1,6 +1,16 @@
 # Python bytecode
 *.pyc
 __pycache__/
+venv/
+
+# Secrets
+.env
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
 
 # Checkpoints
 *checkpoint*
